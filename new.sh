@@ -22,6 +22,7 @@ else
   printf "%s already created\n%s" $cyan $end
 fi
 
+
 # Apps, packages, and dependencies
 
 printf "%s\n# Installing apps and dependencies...\n%s" $yellow $end
